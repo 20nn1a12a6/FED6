@@ -1,12 +1,13 @@
 .bannerBgImage{
     height: 100vh;
-    background: url("images\bannerimage.jpg");
+    background-color: pink;
+    background: url("\images\bannerimage.jpg");
     background-size: cover;
     position: relative; 
 }
 
 .bannerText{
-    text-align: right;
+    text-align: left;
     position: absolute;
     top: 50%;
     left: 50%;
